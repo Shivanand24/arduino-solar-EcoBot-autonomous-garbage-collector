@@ -130,7 +130,7 @@ void loop() {
 
 ## 📸 Gallery
 
-![EcoBot build - side and top view](./assets/ecobot_photo.png)
+![EcoBot build - side and top view](./ecobot_photo.png)
 
 ## 📄 License
 
