@@ -2,7 +2,7 @@
 
 An Arduino-based autonomous mobile robot that detects nearby garbage using ultrasonic sensing, picks it up with a servo-driven gripper and lift arm, and deposits it into an onboard collection bin — built as a low-cost prototype for automated waste collection.
 
-![EcoBot Robot](./assets/ecobot_photo.png)
+![EcoBot Robot](./ecobot_photo.png)
 
 ---
 
