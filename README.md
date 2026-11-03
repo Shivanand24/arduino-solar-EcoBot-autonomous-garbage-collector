@@ -1,1 +1,0 @@
-# arduino-solar-EcoBot-autonomous-garbage-collector
